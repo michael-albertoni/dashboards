@@ -1,0 +1,8 @@
+Teste.ipynb
+.venv
+__pycache__
+.vscode
+api.log
+.pytest_cache
+cache
+temp.json
