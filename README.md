@@ -1,4 +1,4 @@
-# API CONTROLADORIA COMERCIAL
+﻿# API CONTROLADORIA COMERCIAL
 
 ## Instalação
 
@@ -11,8 +11,8 @@
 Na pasta onde deseja criar o repositório
 * `python -m venv .venv`
 * `.venv/Scripts/activate`
-* `git clone https://github.com/michael-albertoni/API_CC.git`
-* `git remote add origin https://github.com/michael-albertoni/API_CC.git`
+* `git clone https://github.com/michael-albertoni/dashboards.git`
+* `git remote add origin https://github.com/michael-albertoni/dashboards.git`
 * `pip install -r requirements.txt`
 
 
