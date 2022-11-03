@@ -7,8 +7,6 @@ import pandas as pd
 df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv')
 css_externo = ['https://codepen.io/chriddyp/pen/bWLwP.css']
 
-
-
 app = dash.Dash(__name__, external_stylesheets=css_externo)
 
 app.layout = html.Div([
